@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f29932da-2256-45d4-abec-fe03645b9db1": {
+      "ProjectGuid": "f29932da-2256-45d4-abec-fe03645b9db1",
+      "DisplayName": "MathLib",
+      "ColorIndex": 0
+    },
+    "c23a8b85-8c2e-498c-8efe-d01e6b493c8a": {
+      "ProjectGuid": "c23a8b85-8c2e-498c-8efe-d01e6b493c8a",
+      "DisplayName": "ConsoleTest",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "c58910a5-d28e-4474-b19c-2b47fee9164d": {
+      "ProjectGuid": "c58910a5-d28e-4474-b19c-2b47fee9164d",
+      "DisplayName": "MathLibTest",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

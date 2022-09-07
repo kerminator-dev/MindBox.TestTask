@@ -1,0 +1,36 @@
+D:\Users\525.khokhlovns\Desktop\Новая папка\Solution\ConsoleTest\bin\Debug\net6.0\ConsoleTest.exe
+D:\Users\525.khokhlovns\Desktop\Новая папка\Solution\ConsoleTest\bin\Debug\net6.0\ConsoleTest.deps.json
+D:\Users\525.khokhlovns\Desktop\Новая папка\Solution\ConsoleTest\bin\Debug\net6.0\ConsoleTest.runtimeconfig.json
+D:\Users\525.khokhlovns\Desktop\Новая папка\Solution\ConsoleTest\bin\Debug\net6.0\ConsoleTest.dll
+D:\Users\525.khokhlovns\Desktop\Новая папка\Solution\ConsoleTest\bin\Debug\net6.0\ref\ConsoleTest.dll
+D:\Users\525.khokhlovns\Desktop\Новая папка\Solution\ConsoleTest\bin\Debug\net6.0\ConsoleTest.pdb
+D:\Users\525.khokhlovns\Desktop\Новая папка\Solution\ConsoleTest\bin\Debug\net6.0\MathLib.dll
+D:\Users\525.khokhlovns\Desktop\Новая папка\Solution\ConsoleTest\bin\Debug\net6.0\MathLib.pdb
+D:\Users\525.khokhlovns\Desktop\Новая папка\Solution\ConsoleTest\obj\Debug\net6.0\ConsoleTest.csproj.AssemblyReference.cache
+D:\Users\525.khokhlovns\Desktop\Новая папка\Solution\ConsoleTest\obj\Debug\net6.0\ConsoleTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\525.khokhlovns\Desktop\Новая папка\Solution\ConsoleTest\obj\Debug\net6.0\ConsoleTest.AssemblyInfoInputs.cache
+D:\Users\525.khokhlovns\Desktop\Новая папка\Solution\ConsoleTest\obj\Debug\net6.0\ConsoleTest.AssemblyInfo.cs
+D:\Users\525.khokhlovns\Desktop\Новая папка\Solution\ConsoleTest\obj\Debug\net6.0\ConsoleTest.csproj.CoreCompileInputs.cache
+D:\Users\525.khokhlovns\Desktop\Новая папка\Solution\ConsoleTest\obj\Debug\net6.0\ConsoleTest.csproj.CopyComplete
+D:\Users\525.khokhlovns\Desktop\Новая папка\Solution\ConsoleTest\obj\Debug\net6.0\ConsoleTest.dll
+D:\Users\525.khokhlovns\Desktop\Новая папка\Solution\ConsoleTest\obj\Debug\net6.0\ref\ConsoleTest.dll
+D:\Users\525.khokhlovns\Desktop\Новая папка\Solution\ConsoleTest\obj\Debug\net6.0\ConsoleTest.pdb
+D:\Users\525.khokhlovns\Desktop\Новая папка\Solution\ConsoleTest\obj\Debug\net6.0\ConsoleTest.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Solution\ConsoleTest\bin\Debug\net6.0\ConsoleTest.exe
+C:\Users\Admin\Desktop\Solution\ConsoleTest\bin\Debug\net6.0\ConsoleTest.deps.json
+C:\Users\Admin\Desktop\Solution\ConsoleTest\bin\Debug\net6.0\ConsoleTest.runtimeconfig.json
+C:\Users\Admin\Desktop\Solution\ConsoleTest\bin\Debug\net6.0\ConsoleTest.dll
+C:\Users\Admin\Desktop\Solution\ConsoleTest\bin\Debug\net6.0\ConsoleTest.pdb
+C:\Users\Admin\Desktop\Solution\ConsoleTest\bin\Debug\net6.0\MathLib.dll
+C:\Users\Admin\Desktop\Solution\ConsoleTest\bin\Debug\net6.0\MathLib.pdb
+C:\Users\Admin\Desktop\Solution\ConsoleTest\obj\Debug\net6.0\ConsoleTest.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Solution\ConsoleTest\obj\Debug\net6.0\ConsoleTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Solution\ConsoleTest\obj\Debug\net6.0\ConsoleTest.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Solution\ConsoleTest\obj\Debug\net6.0\ConsoleTest.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Solution\ConsoleTest\obj\Debug\net6.0\ConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Solution\ConsoleTest\obj\Debug\net6.0\ConsoleTest.csproj.CopyComplete
+C:\Users\Admin\Desktop\Solution\ConsoleTest\obj\Debug\net6.0\ConsoleTest.dll
+C:\Users\Admin\Desktop\Solution\ConsoleTest\obj\Debug\net6.0\refint\ConsoleTest.dll
+C:\Users\Admin\Desktop\Solution\ConsoleTest\obj\Debug\net6.0\ConsoleTest.pdb
+C:\Users\Admin\Desktop\Solution\ConsoleTest\obj\Debug\net6.0\ConsoleTest.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Solution\ConsoleTest\obj\Debug\net6.0\ref\ConsoleTest.dll
