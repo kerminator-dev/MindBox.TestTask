@@ -1,0 +1,6 @@
+SELECT P.Name AS "Продукт", C.Name AS "Категория" 
+FROM Product AS P
+LEFT JOIN ProductCategory AS PC 
+    ON PC.ProductId = P.Id
+LEFT JOIN Category AS C
+    ON PC.CategoryId = C.Id;
