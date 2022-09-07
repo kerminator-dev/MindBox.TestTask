@@ -8,5 +8,5 @@
 ### Решение состоит из:
 - <a href="https://github.com/kerminator-dev/MindBox.TestTask/tree/main/src/Task1/Solution/MathLib">Библиотеки классов .NET Core<a>
 - <a href="https://github.com/kerminator-dev/MindBox.TestTask/tree/main/src/Task1/Solution/MathLibTest">Проекта с Unit-тестами</a>
-- <a href="https://github.com/kerminator-dev/MindBox.TestTask/tree/main/src/Task1/Solution/ConsoleTest">Консольного проект</a>
+- <a href="https://github.com/kerminator-dev/MindBox.TestTask/tree/main/src/Task1/Solution/ConsoleTest">Консольного проекта</a>
  
